@@ -42,6 +42,7 @@ function App() {
   return (
     <>
     <input 
+    className='input'
     type='text'
     placeholder='digita il nome del prodotto'
     value={query}
